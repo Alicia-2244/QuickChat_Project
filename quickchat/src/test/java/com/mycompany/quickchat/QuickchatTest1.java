@@ -15,9 +15,9 @@ import static org.junit.Assert.*;
  *
  * @author rikha
  */
-public class QuickchatTest1 {
+public class QuickchatTest {
     
-    public QuickchatTest1) {
+    public QuickchatTest() {
     }
     
     @BeforeClass
